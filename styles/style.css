@@ -1,0 +1,18 @@
+.top-header {
+    color: rgba(0,0,0,1);
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    position: relative;
+}
+
+.top-header:hover {
+    color: rgba(0,0,0,0.87);
+    text-decoration: underline;
+}
+
+#gmail-images {
+    display: flex;
+    justify-content: flex-end;
+
+}
