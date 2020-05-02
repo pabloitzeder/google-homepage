@@ -23,7 +23,13 @@
 #middle-container2{
     text-align: center;
 }
+#search {
+    text-align:center;
+}
 #search-input {
     height: 34px;
     width: 338px;
+}
+#buttons {
+    text-align: center;
 }
