@@ -4,6 +4,7 @@
     font-size: 14px;
     text-decoration: none;
     position: relative;
+    margin: 5px;
 }
 
 .top-header:hover {
