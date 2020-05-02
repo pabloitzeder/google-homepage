@@ -27,11 +27,26 @@
     text-align:center;
 }
 #search-input {
+    margin-top: 25px;
     height: 34px;
-    width: 338px;
+    width: 584px;
+    border-radius:24px;
+    border: 1px solid silver;
+    outline: none;
+    font-size: 1em;
+}
+#search-input:hover{
+    margin-top: 25px;
+    height: 34px;
+    width: 584px;
+    border-radius:24px;
+    border: 1px solid silver;
+    box-shadow: 0px 0px 10px rgba(121, 121, 121, 0.603);
+    outline: none;
 }
 #buttons {
     text-align: center;
+    margin-top: 25px;
 }
 
 footer {
